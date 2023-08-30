@@ -1,4 +1,4 @@
-# Brain Tumor-Detection and Classification Model
+# Brain Tumor Detection and Classification Model
 This repository contains a Convolutional Neural Network (CNN) model that can be used to classify and detect brain tumors in patient's brain MRI images. The model has an accuracy of 84%.
 
 Requirements
